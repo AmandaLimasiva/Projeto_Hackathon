@@ -1,0 +1,111 @@
+body{
+    font: 20px arial serif;
+}
+
+h4.historia{
+    padding: 20px;
+}
+
+h2{
+    margin-bottom: 20px;
+}
+
+h5, p{
+   margin: 20px;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  font-size: 15px;
+}
+
+.img-ajuste{
+    margin: 30px;
+    
+}
+
+.margin{
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+.integrantes, .turne{
+    background-color: rgb(158, 158, 158);
+}
+
+.bg-footer{
+    background-color: rgb(8, 23, 39);
+}
+
+.bg-footer p{
+    color: rgb(228, 241, 240);
+}
+
+.col-lg-4{
+    margin-bottom: 20px;
+}
+
+.turn{
+    background: rgb(226, 223, 223);
+    padding: 20px;
+}
+
+.transform{
+    opacity: 1;
+}
+
+.transform:hover{
+    opacity:0.5;
+}
+
+.pointer{
+    height: 45px;
+    border-radius: 20px;
+    background-color: rgb(35, 51, 70);
+    color: white;
+    cursor: pointer;
+}
+
+.pointer:hover{
+    border: solid rgb(35, 51, 70) 1px;
+    background-color: white;
+    color: rgb(35, 51, 70);
+}
+
+.borda{
+    padding: 30px;
+   border: rgb(231, 229, 229) solid 1px;
+}
+
+.correio{
+    text-align: left;
+}
+
+.btn-primary{
+    border: none;
+    background-color: rgb(35, 51, 70);;;
+    color: white
+}
+
+.btn-primary:hover{
+    border: solid rgb(35, 51, 70) 1px;
+    background-color: white;
+    color: rgb(35, 51, 70);
+}
+
+ul{
+    margin-left: -15px;
+}
+
+li{
+    list-style-type: none;
+    list-style: none;
+    display: inline;
+}
+
+.top{
+    color: blanchedalmond;
+    font-size: 16px;
+}
+    
+.top:hover{
+    color: rgb(235, 206, 163);
+    font-size: 16px;
+}
